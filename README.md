@@ -11,6 +11,6 @@ ATMEGA328PU
 
 --Creating PCB layouts
 
---Finaling first version of Code
+--Finalizing first version of Code
 
 Come back soon...
